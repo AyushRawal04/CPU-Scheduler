@@ -1,2 +1,3 @@
 Python 3
 Make sure to compile the C++ code to a.out using: g++ Scheduler.cpp -o a.out
+Please insert only integer values in the fields provided
